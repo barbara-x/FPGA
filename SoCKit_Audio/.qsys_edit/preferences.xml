@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable>
+  <columns>
+   <connections preferredWidth="319" />
+   <irq preferredWidth="111" />
+   <name preferredWidth="256" />
+   <inputclock preferredWidth="151" />
+  </columns>
+ </systemtable>
+ <clocktable>
+  <columns>
+   <clockname preferredWidth="394" />
+   <clocksource preferredWidth="395" />
+   <frequency preferredWidth="383" />
+  </columns>
+ </clocktable>
+ <window width="1554" height="916" x="54" y="-8" />
+ <library
+   expandedCategories="Project/Terasic Technologies Inc./SoCKit,Project/Terasic Technologies Inc.,Library,Project" />
+ <hdlexample language="VERILOG" />
+</preferences>

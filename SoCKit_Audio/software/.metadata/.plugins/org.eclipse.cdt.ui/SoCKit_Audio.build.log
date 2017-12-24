@@ -1,0 +1,10 @@
+
+**** Build of configuration Nios II for project SoCKit_Audio ****
+
+make all 
+Info: Building ../SoCKit_Audio_bsp/
+make --no-print-directory -C ../SoCKit_Audio_bsp/
+[BSP build complete]
+[SoCKit_Audio build complete]
+
+**** Build Finished ****

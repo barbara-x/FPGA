@@ -1,0 +1,38 @@
+Core: audio_nios_mem_if_ddr3_emif_0_p0 - Instance: nios_audio_ins|mem_if_ddr3_emif_0
+Path, Setup Margin, Hold Margin
+"Address Command (Slow 1100mV 85C Model)",0.585,0.444
+"Bus Turnaround Time (Slow 1100mV 85C Model)",8.3,--
+"Core (Slow 1100mV 85C Model)",-0.515,0.303
+"Core Recovery/Removal (Slow 1100mV 85C Model)",0.323,0.512
+"DQS vs CK (Slow 1100mV 85C Model)",0.607,0.634
+"Postamble (Slow 1100mV 85C Model)",0.753,0.753
+"Read Capture (Slow 1100mV 85C Model)",0.303,0.261
+"Read Resync (Slow 1100mV 85C Model)",1.0,1.0
+"Write (Slow 1100mV 85C Model)",0.283,0.283
+"Address Command (Slow 1100mV 0C Model)",0.688,0.372
+"Bus Turnaround Time (Slow 1100mV 0C Model)",8.421,--
+"Core (Slow 1100mV 0C Model)",-0.633,0.318
+"Core Recovery/Removal (Slow 1100mV 0C Model)",0.543,0.135
+"DQS vs CK (Slow 1100mV 0C Model)",0.655,0.643
+"Postamble (Slow 1100mV 0C Model)",0.736,0.736
+"Read Capture (Slow 1100mV 0C Model)",0.316,0.274
+"Read Resync (Slow 1100mV 0C Model)",1.0,1.0
+"Write (Slow 1100mV 0C Model)",0.288,0.288
+"Address Command (Fast 1100mV 85C Model)",1.333,0.369
+"Bus Turnaround Time (Fast 1100mV 85C Model)",8.956,--
+"Core (Fast 1100mV 85C Model)",1.84,0.111
+"Core Recovery/Removal (Fast 1100mV 85C Model)",1.769,0.249
+"DQS vs CK (Fast 1100mV 85C Model)",0.804,0.885
+"Postamble (Fast 1100mV 85C Model)",1.028,1.028
+"Read Capture (Fast 1100mV 85C Model)",0.481,0.456
+"Read Resync (Fast 1100mV 85C Model)",1.0,1.0
+"Write (Fast 1100mV 85C Model)",0.488,0.488
+"Address Command (Fast 1100mV 0C Model)",1.387,0.332
+"Bus Turnaround Time (Fast 1100mV 0C Model)",8.987,--
+"Core (Fast 1100mV 0C Model)",1.864,0.087
+"Core Recovery/Removal (Fast 1100mV 0C Model)",2.311,0.191
+"DQS vs CK (Fast 1100mV 0C Model)",0.803,0.892
+"Postamble (Fast 1100mV 0C Model)",1.043,1.043
+"Read Capture (Fast 1100mV 0C Model)",0.485,0.46
+"Read Resync (Fast 1100mV 0C Model)",1.0,1.0
+"Write (Fast 1100mV 0C Model)",0.497,0.497
